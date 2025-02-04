@@ -10,7 +10,7 @@ PDF, Excel ve Word gibi dosya türlerinde yer alan bir veya birden fazla bağlan
 
 ## Proje Görseli
 
-![Proje Görseli](https://github.com/lvntaslann/summarize_content__TF-IDF_analyze_LDA_topics/blob/main/images/images.png?raw=true)
+![Proje Görseli](https://github.com/lvntaslann/summarize_content_TF-IDF_analyze_LDA_topics/blob/main/images/images.png)
 ---
 
 ## Kullanılan Yazılımlar
