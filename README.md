@@ -22,19 +22,22 @@ PDF, Excel ve Word gibi dosya türlerinde yer alan bir veya birden fazla bağlan
 ### FastAPI
 - *Açıklama*: Mistral 7B modeli için request işlemlerinde bulunmak amacıyla FastAPI tercih edildi.
 - *Kullanılan Kütüphaneler*:
-  - pip install fastapi: Modern ve hızlı web uygulamaları geliştirmek için bir framework.
-  - pip install uvicorn: FastAPI uygulamalarını çalıştırmak için kullanılan bir ASGI sunucusu.
-  - pip install pandas: Veri analizi ve manipülasyonu için güçlü bir araç.
-  - pip install matplotlib: Grafik ve veri görselleştirme için popüler bir kütüphane.
-  - pip install wordcloud: Kelime bulutları oluşturmak için kullanılan bir araç.
-  - pip install scikit-learn: Makine öğrenimi algoritmaları ve veri işleme araçları sunar.
-  - pip install gensim: Doğal dil işleme ve konu modelleme için kullanılan güçlü bir kütüphane.
-  - pip install youtube-transcript-api: YouTube videolarından altyazı/transkript almak için bir API.
-  - pip install beautifulsoup4: HTML ve XML belgelerini ayrıştırmak ve veri çıkarmak için kullanılır.
-  - pip install requests: HTTP istekleri yapmak için kullanılan popüler bir kütüphane.
-  - pip install nltk: Doğal dil işleme (NLP) için araçlar sunan bir kütüphane.
-  - pip install fpdf: PDF belgeleri oluşturmak için kullanılan bir kütüphane.
-  - pip install PyPDF2: PDF dosyalarını okumak ve işlemek için kullanılan bir araç.
+  - fastapi: Modern ve hızlı web uygulamaları geliştirmek için bir framework.
+  - uvicorn: FastAPI uygulamalarını çalıştırmak için kullanılan bir ASGI sunucusu.
+  - pandas: Veri analizi ve manipülasyonu için güçlü bir araç.
+  - matplotlib: Grafik ve veri görselleştirme için popüler bir kütüphane.
+  - wordcloud: Kelime bulutları oluşturmak için kullanılan bir araç.
+  - scikit-learn: Makine öğrenimi algoritmaları ve veri işleme araçları sunar.
+  - gensim: Doğal dil işleme ve konu modelleme için kullanılan güçlü bir kütüphane.
+  - youtube-transcript-api: YouTube videolarından altyazı/transkript almak için bir API.
+  - beautifulsoup4: HTML ve XML belgelerini ayrıştırmak ve veri çıkarmak için kullanılır.
+  - requests: HTTP istekleri yapmak için kullanılan popüler bir kütüphane.
+  - nltk: Doğal dil işleme (NLP) için araçlar sunan bir kütüphane.
+  - fpdf: PDF belgeleri oluşturmak için kullanılan bir kütüphane.
+  - PyPDF2: PDF dosyalarını okumak ve işlemek için kullanılan bir araç.
+ 
+    ```bash
+    pip install fastapi uvicorn pandas matplotlib wordcloud scikit-learn gensim youtube-transcript-api beautifulsoup4 requests nltk fpdf PyPDF2
 
 
 ### Flutter
